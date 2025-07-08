@@ -21,15 +21,15 @@ export const About = () => {
 
     const slides = [
         {
-            img: "/leon-img/img1.jpg",
+            img: "leon-img/img1.jpg",
             text: "I am a first generation graduated and I am also a recent new grad looking for a full time job in IT, Front-end Development, and Software Engineering."
         },
         {
-            img: "/leon-img/img2.jpg", 
+            img: "leon-img/img2.jpg", 
             text: "I graduated from Oregon State University with a Bachelor of Science degree, focusing on Front-End Development and Data Analytics. I'm passionate about building intuitive and data-driven web experiences."
         },
         {
-            video: "/leon-img/IMG_5575.mp4",
+            video: "leon-img/IMG_5575.mp4",
             text: "Outside of tech, I enjoy working out. Strength training helps me stay disciplined and motivated — hitting new PRs in bench press, squats, and deadlifts is always rewarding."
         }
     ];
